@@ -1,2 +1,0 @@
-Requirements: Python 3.10.4 Command Prompt Itself to run command python cmd.py
-Only run with Command Prompt
